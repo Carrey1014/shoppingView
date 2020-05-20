@@ -15,7 +15,7 @@ export default {
 }
 </script>
 
-<style lang="less">
+<style lang="less"> 
     .loading{
         position: relative;
         z-index: 999;

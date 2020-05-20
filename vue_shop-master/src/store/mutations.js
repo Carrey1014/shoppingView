@@ -14,8 +14,7 @@ export default {
     //       });
     //       console.log("3")
     //   }
-
-    //mutations 唯一的目的就是修改state中状态
+    //mutations 唯一的目的就是修改state中状态,定义同步方法
     //mutations 中的每个方法尽可能完成的事件比较单一 一点; 
     addCounter(state, obj) {
         obj.count++ //这两个事件分开写

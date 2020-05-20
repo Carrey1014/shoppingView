@@ -9,7 +9,7 @@ export default {
             }
         }
         if(oldProduct){
-            //当商品已添加时
+            //当商品已添加时 
             // oldProduct.count += 1
             context.commit('addCounter',oldProduct)
         }else{

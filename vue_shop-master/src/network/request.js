@@ -15,7 +15,7 @@ export function request(config) {
             message: '加载中...',
             forbidClick: true,
             loadingType: 'spinner'
-          });
+          }); 
         return config
     },(err)=>{
         console.log(err)

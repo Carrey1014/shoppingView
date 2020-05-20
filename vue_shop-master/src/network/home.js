@@ -13,5 +13,5 @@ export function getHomeGoods(type,page){
             type,
             page
         }
-    });
+    }); 
 }

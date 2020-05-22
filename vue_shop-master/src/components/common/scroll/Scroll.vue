@@ -58,7 +58,7 @@ export default {
         //当上拉加载事件完成后，调用此方法，才可以进行下一次上拉加载;
         finishPullUp() {
             this.scroll && this.scroll.finishPullUp();
-        }
+        } 
     }
 };
 </script>

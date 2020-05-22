@@ -26,7 +26,7 @@ export function request(config) {
         return res.data
     },(err)=>{
         console.log(err)
-    });
+    }); 
     //3、发送真正的网络请求
     return instance(config); //返回一个Promise
 }

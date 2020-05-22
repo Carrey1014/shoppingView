@@ -12,5 +12,5 @@
     // resize 监听页面变化
     window.addEventListener('resize', function () {
         remLayout();
-    }, false);
+    }, false); 
 })();

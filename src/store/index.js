@@ -13,7 +13,7 @@ export default new Vuex.Store({
       //商品的数组
       cartList:[]
   },
-  mutations,
+  mutations, 
   actions,
   modules: {
   }

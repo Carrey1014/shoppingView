@@ -11,7 +11,7 @@ export function getDetail(iid){
 
 //用商品推荐接口请求
 export function getRecommend(){
-    return request({
+    return request({ 
         url:'/recommend'
     });
 }

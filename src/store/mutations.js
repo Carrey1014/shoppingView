@@ -11,7 +11,7 @@ export default {
     //               state.cartList.push(obj);
     //               console.log("2")
     //           }
-    //       });
+    //       }); 
     //       console.log("3")
     //   }
 

@@ -7,7 +7,7 @@ export function getDetail(iid){
             iid
         }
     });
-}
+} 
 
 //用商品推荐接口请求
 export function getRecommend(){
